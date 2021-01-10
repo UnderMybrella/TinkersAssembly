@@ -4,7 +4,6 @@
  */
 package slimeknights.tconstruct.tools
 
-import slimeknights.tconstruct.library.materials.IMaterial
 import slimeknights.tconstruct.library.materials.MaterialStatsId
 import slimeknights.tconstruct.library.materials.stats.ExtraMaterialStats
 import slimeknights.tconstruct.library.materials.stats.HandleMaterialStats

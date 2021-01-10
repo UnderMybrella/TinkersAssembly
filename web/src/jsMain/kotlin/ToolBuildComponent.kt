@@ -11,15 +11,12 @@ import react.RProps
 import react.RState
 import react.dom.br
 import react.dom.div
-import react.dom.label
 import react.dom.li
 import react.dom.optGroup
 import react.dom.option
 import react.dom.select
 import react.dom.ul
-import slimeknights.tconstruct.library.materials.MaterialStatsId
 import slimeknights.tconstruct.library.materials.stats.MaterialStats
-import slimeknights.tconstruct.library.tools.ToolDefinition
 import slimeknights.tconstruct.tools.ToolStatsBuilder
 
 external interface ToolBuilderProps : RProps {
