@@ -1,0 +1,40 @@
+{
+  "pickaxe": {
+    "baseStatDefinition": {
+      "damageModifier": 1,
+      "attackSpeed": 1.2
+    },
+    "requiredComponents": [
+      "tconstruct:tool_rod",
+      "tconstruct:pick_head",
+      "tconstruct:binding"
+    ],
+    "componentTypes": [
+      "tconstruct:handle",
+      "tconstruct:head",
+      "tconstruct:extra"
+    ],
+    "categories": [
+      "harvest"
+    ]
+  },
+  "shovel": {
+    "baseStatDefinition": {
+      "damageModifier": 0.9,
+      "attackSpeed": 1
+    },
+    "requiredComponents": [
+      "tconstruct:tool_rod",
+      "tconstruct:shovel_head",
+      "tconstruct:binding"
+    ],
+    "componentTypes": [
+      "tconstruct:handle",
+      "tconstruct:head",
+      "tconstruct:extra"
+    ],
+    "categories": [
+      "harvest"
+    ]
+  }
+}

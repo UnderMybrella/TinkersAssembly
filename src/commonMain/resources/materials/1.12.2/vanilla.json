@@ -1,0 +1,47 @@
+{
+  "wood": {
+    "head": {
+      "durability": 35,
+      "mining_speed": 2.0,
+      "attack": 2.0,
+      "harvest_level": 0
+    },
+    "handle": {
+      "modifier": 1.0,
+      "durability": 25
+    },
+    "extra": {
+      "durability": 15
+    }
+  },
+  "stone": {
+    "head": {
+      "durability": 120,
+      "mining_speed": 4.0,
+      "attack": 3.0,
+      "harvest_level": 1
+    },
+    "handle": {
+      "modifier": 0.5,
+      "durability": -50
+    },
+    "extra": {
+      "durability": 20
+    }
+  },
+  "flint": {
+    "head": {
+      "durability": 150,
+      "mining_speed": 5.0,
+      "attack": 2.9,
+      "harvest_level": 1
+    },
+    "handle": {
+      "modifier": 0.6,
+      "durability": -60
+    },
+    "extra": {
+      "durability": 40
+    }
+  }
+}
